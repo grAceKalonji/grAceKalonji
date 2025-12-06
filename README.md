@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy there, I'm a first-Year Student studying Computer science at the University of Southern Maine. My journey feels like something straight out of an anime! and my training montage started in highschool, late nights debugging and after school solving problems with my computer science teacher. It all felt worth it when my program finally worked. 
+Heyy there, I'm a first-Year Student studying Computer science at the University of Southern Maine.
 I love to create and I found that same ability to create in code. The thought of bringing something that was just an idea a few hours ago into existence feels amazing. 
 Beyond coding I LOVE a good adrenaline rush whether I'm hiking, mountainbiking or snowboarding nothing feels better than a good scare to make me feel alive !!!     
 
